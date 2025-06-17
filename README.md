@@ -50,6 +50,11 @@
 <br/>
 
 ## 업데이트 사항
+>[2025.06.17]
+>>프로젝트 설명 개선
+>>Notion으로 된 간단한 포토폴리오를 만들고 나에게 관심을 가지게 되면 웹 포토폴리오를 볼 수 있도록 개선
+>>Notion 포토폴리오(https://www.notion.so/minsehong/Minsehong-Portfolio-2144339956d080af99d8c4cbbc5fb564?source=copy_link)
+
 >[2025.06.12]
 >>레이아웃, 디자인, 설명 수정
 
